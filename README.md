@@ -1,2 +1,3 @@
-# SoulTravel_15-06-24
-Unlock the secrets to creating a stunning landing page with HTML, CSS, and JavaScript in this comprehensive guide.
+# SoulTravel
+A beautiful landing page for a travel app.
+Demonstrating skills in HTML, CSS, and Javascript
